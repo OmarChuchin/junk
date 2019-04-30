@@ -1,0 +1,1 @@
+This is a code in .c to check if a sudoku solution is correct.
